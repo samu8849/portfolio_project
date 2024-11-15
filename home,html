@@ -1,0 +1,96 @@
+<html>
+    <html lang="en">
+    <style>
+
+.mycontainer {
+  display: flex;
+
+  
+  
+}
+.mycontainer > div {
+  width:33%;
+}
+    </style>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <body>
+    
+<pre style="background-color: white; text-align: right; font-size: xx-large; text-decoration-color: brown;color: black ; height: 30px; text-shadow: 3px;"> <a href="home,html"> Home</a> <a href="About.html">About</a>  <a href="Project.html"> Projects</a> <a href="Contact.html"> Contact</a> </pre>
+      
+    <img src="image/images (37).jfif "  style="height: 300px;  width: 1350px;">
+
+    <h1 style="text-align: center; color: purple;">  OUR <sub>Project</sub> HIGHLIGHTS  </h1>
+
+    
+    <div class="mycontainer">
+
+        <div style=" border: 3px solid yellow; width: 500px; height: 300px; margin-left: 20px; border-radius: 20px;">
+          <u><h1>Portfolio</h1></u>
+          <b>Project Vision and Objectives</b>Define the core purpose: providing authentic, easy-to-follow breakfast 
+           recipes with a Pakistani focus.<br>
+          <b> Target audience</b>food enthusiasts, home cooks, and anyone interested in Pakistani cuisine.<br>
+          <b>Overall goal</b>to be a go-to resource for Pakistani breakfast options and culturally rich recipes.<br><br>
+          <a href="Project.html">read more </a>
+
+        </div>
+        
+        <div style=" border: 3px solid orange; width: 500px;height: 300px; margin-left: 20px; border-radius: 20px;">
+          <u><h1>eCommerce</h1></u>
+          <b>Objective </b> Launch an e-commerce platform to enhance online sales and customer reach.<br>
+          <b> Target Audience</b>Define primary customer demographics and geographic focus.<br>
+          <b>Product Range</b>Overview of categories (e.g., electronics, fashion, beauty products, home decor.<br><br>
+          <a href="Project.html"> read more </a>
+          
+        </div>
+        
+        <div style=" border: solid green; width: 500px; height: 300px; margin-left: 20px; border-radius: 20px;">
+          <u><h1>Blog</h1></u>
+          <b>Introduction</b>Hi, I’m [Your Name], and I’m passionate about bringing the
+           flavors of traditional and modern Pakistani breakfasts to your table.<br>
+           <b>Blog Focus</b>Sharing delicious and easy-to-follow recipes that celebrate 
+           the rich culinary heritage of Pakistan, with a focus on breakfast.<br><br>
+           <a href="Project.html"> read more </a>
+        </div>
+
+        </div><br><br>
+
+        <footer style="background-color: palevioletred; width: 1350px;height: 200px;">
+            <h2 style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;text-align: center; padding-top: 40px;"> Customer Care</h2>
+            <p style="text-align: center;">Author: Hege Refsnes<br>
+            <a href="mailto:hege@example.com" style="text-align: center;">support@example.com</a></p><br>
+          
+
+
+
+.
+
+           
+        
+
+
+
+
+ 
+         
+            
+            
+            
+            
+            </footer>
+
+         
+        
+      
+
+   
+   
+
+
+
+</body>
+    </html >
+
